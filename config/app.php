@@ -19,15 +19,12 @@ return [
 
     'paypal_mode'         => env('PAYPAL_MODE', 'sandbox'),
 
-    'paypal_client_id_sandbox'    => env('PAYPAL_CLIENT_ID_SANDBOX', 'AXJQHbLa7f7g5z-JWwaLpoWRs7nFkf46vdSxJDr-C5SwlOSXtRIuEhPZ3UK4omEYajDCMrgmSCifsKaF'),
-    'paypal_secret_sandbox'       => env('PAYPAL_SECRET_SANDBOX', 'EGUpeTaBdIYmP0KviCpfZ97D7NtZ0Kqs_3CXN1UedqgL_r2LFPrWifS7F5wcVt33YVGMJ2FYSCk7AZDw'),
+    'paypal_client_id_sandbox'    => env('PAYPAL_CLIENT_ID_SANDBOX', ''),
+    'paypal_secret_sandbox'       => env('PAYPAL_SECRET_SANDBOX', ''),
 
-    'paypal_client_id_production' => env('PAYPAL_CLIENT_ID_PRODUCTION', 'AcgtmhKtB2yQYVaPKZx_4S-BW2wLv_Gn1VK3TEIYWg5Zv9e-_hi89bZiKeZ70b0uZ2ay9wNpaU2IuSbC'),
-    'paypal_secret_production'    => env('PAYPAL_SECRET_PRODUCTION', 'EMeP__eJZEm0bETUorx1ugBSP570LdJoyTSgtEA4agFTekzmWSD9VaxDewqtBEqv19no80C_uzUghHv7'),
+    'paypal_client_id_production' => env('PAYPAL_CLIENT_ID_PRODUCTION', ''),
+    'paypal_secret_production'    => env('PAYPAL_SECRET_PRODUCTION', ''),
 
-    // live credential for paypall 
-    // id -   AcgtmhKtB2yQYVaPKZx_4S-BW2wLv_Gn1VK3TEIYWg5Zv9e-_hi89bZiKeZ70b0uZ2ay9wNpaU2IuSbC
-    // secret - EMeP__eJZEm0bETUorx1ugBSP570LdJoyTSgtEA4agFTekzmWSD9VaxDewqtBEqv19no80C_uzUghHv7
     /*
     |--------------------------------------------------------------------------
     | Application Environment
