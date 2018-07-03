@@ -1,0 +1,10 @@
+pe site vor fi 2 tipuri de useri : 
+ 
+- useri cu cont creat care pot sa plateasca online sau cach 
+- useri fara cont care vor platii doar cash 
+
+toata evidenta va fi tinuta de subscription - unde vor aparea cele 2 tipuri de useri 
+
+
+
+

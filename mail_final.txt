@@ -1,0 +1,17 @@
+1 la share, totul e configurat bine, numai ca facebookul are un cache pe pagina , probabil intr-o saptamana o inceapa sa puna titlul stilului de dans, al paginii la care ii dai share , la fel si imaginea din share si descriptionul, eu nu am ce sa-i fac pana nu se duce cache-ul de ei
+PS: casa te convingi : https://developers.facebook.com/tools/debug/sharing/?q=https%3A%2F%2Flatinlovedanceschool.com%2Fdance-styles%2Fbachata
+
+2 twitter share aceasi poveste ca la fb
+
+3 spatiul lipsa care se intampla cateodata sa nu apara este de google+ , si aceasta e o problema de serverul lor nu de la mine,
+
+4 punctele pe care le ai in contul conectat cu fb ( 9 la numar) , au ramas de cand ti-ai facut tu prima oara cont pe site, o sa ti sterg contul asociat cu fb din baza de date, si data viitoare o sa vezi cand te loghezi cu fb o sa ai 60, sau daca creezi un cont nou o sa vezi ca ai 60 , deci asta nu e o erroare ,
+Spre exemplu la Cristina care s-a logat cu fb ea are 60 de p, deci problema era doar la contul tau
+
+5 la payments , totul este corect, numai ca la fel sunt tranzactii vechi facute acum 3-4 sapt de mine sau de tine , si de aceea o iti da la unele eroare, ca sa putem testa , eu ti-am sters acum toate tranzactiile din baza de date. si o sa inceapa sa-ti apara urmatoarele tranzactii, gen cand vine cineva si iti plateste cash, TE SFATUIESC SA FOLOSESTI PAYMENTURILE DIN SITE DE LA 1.07.2018, PANA ATUNCI POTI SA LE TESTEZI SI SA LE SCRII IN CONTINUARE PE FOAIE, EU TI LE STERG PE TOATE CELE VECHI DIN BAZA DE DATE SA NU MAI APARA ERORI. 
+
+6 La send invitation , fa-mi textul si se rezolva 
+
+7 review-urile de facebook nu pot fi modificate, nu am cum sa afisez doar textul persoanei care a facut review ul, asa cum este acum este singura posibilitate sa afisez review-uri din fb
+
+

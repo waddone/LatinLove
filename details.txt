@@ -1,0 +1,7 @@
+Complete user profile : 
+1 after a user creates a account his profile it will be at 60% 
+
+
+
+
+After he reach 100% status, and he has account completed, by default the sistem will give him 100 points.  
